@@ -1,0 +1,2 @@
+Dreamhome is a Modern Real Estate Marketplace build from Scratch with jwt authentication and redux toolkit.
+🚀 It's a cutting-edge real estate marketplace from scratch according to the demand of the people, "Full-stack MERN Real Estate App: A Modern Real Estate.
